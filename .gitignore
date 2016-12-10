@@ -1,5 +1,8 @@
 config/database.yml
 .idea
+log/development.log
+test/*
+
 
 
 
