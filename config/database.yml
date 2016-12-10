@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: workshop_production
-  username: root
+  username: rootss
   password: <%= ENV['WORKSHOP_DATABASE_PASSWORD'] %>
